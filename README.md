@@ -13,3 +13,14 @@
 ### Featured Work
 - **[Email Triage Agent Environment](https://github.com/rishiiicreates/email-triage-env)**: Benchmarking API to evaluate LLM agents on multi-step reasoning and semantic routing. Built with Python, FastAPI, Docker, and Hugging Face.
 - **[Doubt Solver](https://github.com/rishiiicreates/srm-doubt-solver)**: Local RAG pipeline to process academic queries using LangChain, ChromaDB, and Ollama (Llama 3).
+
+
+
+
+
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishiiicreates&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiicreates&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
