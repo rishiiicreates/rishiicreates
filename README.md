@@ -15,8 +15,3 @@
 - **[Doubt Solver](https://github.com/rishiiicreates/srm-doubt-solver)**: Local RAG pipeline to process academic queries using LangChain, ChromaDB, and Ollama (Llama 3).
 
 
-
-<br>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishiiicreates&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/rishiiicreates)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiicreates&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/rishiiicreates)
