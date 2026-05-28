@@ -1,7 +1,7 @@
 # rishiicreates
 # HRISHIKESH YADAV — rishiicreates@gmail.com
 
-AI & Machine Learning | Cloud Architecture | Full-Stack Development
+
 
 ### Tech Stack
 <p align="left"> 
