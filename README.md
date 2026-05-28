@@ -1,4 +1,4 @@
-# rishiicreates
+# rishiiicreates
 # HRISHIKESH YADAV — rishiicreates@gmail.com
 
 
