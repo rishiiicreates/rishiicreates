@@ -16,10 +16,7 @@
 
 
 
-
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishiicreates&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiicreates&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishiiicreates&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/rishiiicreates)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiicreates&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/rishiiicreates)
