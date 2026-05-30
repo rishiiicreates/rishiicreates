@@ -1,31 +1,17 @@
-# rishiiicreates
+# HRISHIKESH YADAV — rishiicreates@gmail.com
 
-## 🚀 Project Overview
-This repository contains the source code and documentation for **rishiiicreates**, developed by [rishiiicreates](https://github.com/rishiiicreates).
+AI & Machine Learning | Cloud Architecture | Full-Stack Development
 
-## 🛠 Tech Stack
-- Built with a passion for clean code and efficiency.
-- Designed for scalability and performance.
+### Tech Stack
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,tensorflow,docker,kubernetes,aws,git" />
+</p>
 
-## 📖 Getting Started
+### Featured Work
+- **[Email Triage Agent Environment](https://github.com/rishiiicreates/email-triage-env)**: Benchmarking API to evaluate LLM agents on multi-step reasoning and semantic routing. Built with Python, FastAPI, Docker, and Hugging Face.
+- **[Doubt Solver](https://github.com/rishiiicreates/srm-doubt-solver)**: Local RAG pipeline to process academic queries using LangChain, ChromaDB, and Ollama (Llama 3).
 
-### Prerequisites
-Ensure you have the necessary environment installed before proceeding.
+<br>
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/rishiiicreates/rishiiicreates.git
-
-# Navigate to the directory
-cd rishiiicreates
-```
-
-## 💻 Usage
-Detailed instructions on how to run this project can be found in the technical documentation or the code comments.
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-## 📜 License
-This project is licensed under the MIT License.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishiiicreates&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/rishiiicreates)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiiicreates&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/rishiiicreates)
